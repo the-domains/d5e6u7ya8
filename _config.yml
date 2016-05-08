@@ -1,6 +1,6 @@
 name: d5e6u7ya8
 favicon: null
-layout_spectrum: 0.602396433474496
+layout_spectrum: 1
 typography_spectrum: 0.9494150665123016
 cta:
   domain: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#010101'
+    - '#003000'
+    - '#f9e000'
+    - '#c8a100'
+    - '#8e5801'
   brandStrength: 0.8381170586217195
-  lightness: 0.2178103942424059
-  saturation: 0.11976840603165329
-  rhythmicContrast: 0.2703607575967908
+  lightness: 0.625
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
